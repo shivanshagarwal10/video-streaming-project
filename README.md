@@ -51,7 +51,6 @@ video-streaming-project/
 
 ### 🔧 Backend Setup
 
-```bash
 cd spring-stream-backend
 
 # Configure your DB connection in application.properties
@@ -100,15 +99,6 @@ WebSocket-based live streaming
 👨‍💻 Author
 Shivansh Agarwal
 
+Java Developer | Full-Stack Enthusiast
 
----
-
-### ✅ Next Steps
-
-1. Save this content as a file: `README.md` in the root of your Git repo (`video-streaming-project/`).
-2. Commit and push:
-
-```bash
-git add README.md
-git commit -m "Add professional README file"
-git push
+• LinkedIn -> https://www.linkedin.com/in/shivansh-agarwal-887657234/ • GitHub -> https://github.com/shivanshagarwal10
